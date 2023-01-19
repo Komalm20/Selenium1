@@ -8,6 +8,7 @@ class Alphabets
 	System.out.println("D");
 	System.out.println("E");
 	System.out.println("F");
+	System.out.println("G");	
 	
 	
 	}
